@@ -2,7 +2,6 @@
 <div align='center'>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoJ1&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoJ1&show_icons=true&theme=nightowl)](https://github.com/AugustoJ1/github-readme-stats)
 
 </div>
 
